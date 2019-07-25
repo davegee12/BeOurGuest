@@ -1,0 +1,92 @@
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csprojAssemblyReference.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CoreCompileInputs.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfoInputs.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfo.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.input.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.output.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorCoreGenerate.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/LogPartial.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Quiz.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/RegPartial.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cache
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cs
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.deps.json
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.json
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.dev.json
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.Views.dll
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CopyComplete
+/Users/davidgee/Desktop/Coding Dojo/C#/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Show.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.deps.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.Views.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/bin/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.input.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.output.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.RazorCoreGenerate.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/LogPartial.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Quiz.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/RegPartial.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Show.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest-master/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CopyComplete
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.deps.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.Views.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest/bin/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorAssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.input.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.TagHelpers.output.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorCoreGenerate.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/LogPartial.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Quiz.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/RegPartial.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Home/Show.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cache
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.RazorTargetAssemblyInfo.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.Views.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.dll
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.pdb
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/BeOurGuest.csproj.CopyComplete
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Swipe/Swipe.g.cshtml.cs
+/Users/ricardorivera/cSharp/Project/BeOurGuest/obj/Debug/netcoreapp2.1/Razor/Views/Swipe/Edit.g.cshtml.cs
