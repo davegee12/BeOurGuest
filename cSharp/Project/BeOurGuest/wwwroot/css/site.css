@@ -1,0 +1,117 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-bottom: 20px;
+    color: aliceblue;
+    background: linear-gradient(to right, rgb(185, 43, 39), rgb(21, 101, 192));
+    background-image: linear-gradient(to right, rgb(185, 43, 39), rgb(21, 101, 192));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+.registration {
+    width: 45%;
+    display: inline-block;
+}
+
+.holder {
+    margin: 0 auto;
+}
+
+nav {
+    width: 100%;
+}
+
+.login {
+    width: 45%;
+    padding-left: 10%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1 {
+    width: 100%;
+    display: inline-block;
+}
+
+nav {
+    width: 100%;
+}
+
+.navname {
+    padding-right: 25px;
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+.nava {
+    padding-left: 10px;
+}
+
+.spp {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 67, 67));
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 67, 67));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+
+a {
+    color: #824165;
+}
+
+.jumbotron {
+    background: transparent;
+}
+
+.edit {
+    width: 35%;
+    margin: 0 auto;
+}
+
+.survey {
+    width: 50%;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
